@@ -1,5 +1,7 @@
-#vla 
-
+---
+tags:
+  - vla
+---
 Policy의 decision이 env를 변화시킬 수 없는 세팅의 evaluation 방법.
 Grount-truth action과 policy action의 차이를 계산하여 evaluation 수행.
 전체 trajectory를 비교할 수 없기 때문에 부정확하다.

@@ -1,5 +1,7 @@
-#llm
-
+---
+tags:
+  - llm
+---
 ![[스크린샷 2026-01-07 오후 7.14.15.png]]
 [[@vaswaniAttentionAllYou2023]] 논문에서 처음 제안.
 

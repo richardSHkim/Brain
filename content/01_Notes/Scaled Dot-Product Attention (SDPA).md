@@ -1,5 +1,7 @@
-#llm
-
+---
+tags:
+  - llm
+---
 [[@vaswaniAttentionAllYou2023]] 논문에서 제안되었으며, [[Transformer]] 구조의 핵심 연산이다.
 
 $$\text{Attention}(Q,K,V) = \text{softmax}(\frac{QK^T}{\sqrt{d_k}})V$$

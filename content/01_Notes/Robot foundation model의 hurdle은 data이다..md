@@ -1,5 +1,7 @@
-#robotics 
-
+---
+tags:
+  - robotics
+---
 로봇의 종류가 다양함.
 [[Imitation Learning]]에 필요한 데이터 수집이 어려움 ([[Teleoperation]]).
 
