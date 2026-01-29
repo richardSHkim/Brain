@@ -1,0 +1,1 @@
+Token의 절대적인 위치 값을 encoding하는 [[Position Encoding]] 방식.

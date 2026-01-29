@@ -1,0 +1,1 @@
+두 token 상대 적인 위치 값 (m-n)을 encoding하는 [[Position Encoding]] 방식.
